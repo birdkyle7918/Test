@@ -1,2 +1,2 @@
-# Test
-To practice git
+A test repo to practice git
+
